@@ -1,3 +1,3 @@
 # Demo
 
-Some description for the video
+Some description for the video.
